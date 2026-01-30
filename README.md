@@ -2,7 +2,7 @@
 
 3rd year Computer Science & AI student at IE University. Part-time software developer building web apps and automation tools.
 
-Currently working on **Pulse**, an AI-powered news intelligence concept that helps small business owners cut through information overload. It delivers personalized, business-specific news feeds and uses AI to interpret why events (tariffs, supply chain issues, policy changes) actually matter to their specific business—not just generic summaries, but contextual insight for better decisions.
+Recently worked on **Pulse**, an AI-powered news intelligence concept that helps small business owners cut through information overload. It delivers personalized, business-specific news feeds and uses AI to interpret why events (tariffs, supply chain issues, policy changes) actually matter to their specific business—not just generic summaries, but contextual insight for better decisions.
 
 Also building chatbots with NLP for customer support, a task management app with real-time collaboration features, and exploring React Native for iOS development. On the infrastructure side, learning Terraform and Docker to understand how software actually gets deployed and maintained in production.
 
