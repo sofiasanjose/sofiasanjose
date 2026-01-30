@@ -2,9 +2,9 @@
 
 3rd year Computer Science & AI student at IE University. Part-time software developer building web apps and automation tools.
 
-I'm working on chatbots with NLP for customer support, a task management app with real-time collaboration, and [Typo](https://github.com/sofiasanjose/typo-blog-app)—a minimalist blogging platform built with Django. Also learning React Native for iOS development and exploring infrastructure with Terraform and Docker.
+Currently working on **Pulse**, an AI-powered news intelligence concept that helps small business owners cut through information overload. It delivers personalized, business-specific news feeds and uses AI to interpret why events (tariffs, supply chain issues, policy changes) actually matter to their specific business—not just generic summaries, but contextual insight for better decisions.
 
-Combining school with real-world development has taught me more about building software that actually works than any class could.
+Also building chatbots with NLP for customer support, a task management app with real-time collaboration features, and exploring React Native for iOS development. On the infrastructure side, learning Terraform and Docker to understand how software actually gets deployed and maintained in production.
 
 ---
 
@@ -17,6 +17,3 @@ Also: Spring Boot, Flask, MySQL, Terraform, AWS, Git
 ---
 
 **Looking for summer-fall 2026 internships in business, tech, software development, AI/ML.**
-
-📧 bonoansofia@gmail.com | sbonoan.ieu2023@student.ie.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/sofia-claudia-bonoan) • [Portfolio](https://sofiasanjose.github.io)
