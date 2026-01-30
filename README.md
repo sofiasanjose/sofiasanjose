@@ -1,25 +1,36 @@
 # Hi, I'm Sofia 👋
 
-CS & AI student building full-stack projects with Python, Java, and modern web frameworks.
+**Computer Science & AI Student** at IE University | Building full-stack applications with Python, Java, and modern frameworks
+
+Currently in my 3rd year, combining technical skills with business insights to create impactful software solutions.
 
 ## 🚀 What I'm Building
 
-- **Typo Blog App** – A minimalist blogging platform for short notes and everyday writing
+- **Typo Blog App** – A minimalist blogging platform for short notes and everyday writing (Django + Python)
 - **iOS Mobile Apps** – Learning React Native to build cross-platform experiences
-- Exploring Django, design patterns, and cloud infrastructure
+- **Cloud Infrastructure** – Exploring Terraform, Docker, and DevOps practices
+- **Design Patterns** – Implementing behavioral and structural patterns in real-world applications
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS  
-**Frameworks:** Django, React Native, Expo  
-**Tools:** Git, GitHub, Terraform, Docker
+**Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS, SQL  
+**Frameworks & Libraries:** Django, React Native, Expo, Spring Boot  
+**Tools & Platforms:** Git, GitHub, Terraform, Docker, VS Code, IntelliJ  
+**Databases:** PostgreSQL, MySQL  
+**Cloud:** AWS basics, Infrastructure as Code
+
+## 🎓 Education
+
+**BS in Computer Science & Artificial Intelligence** – IE University (Expected 2027)  
+Strong foundation in algorithms, data structures, software engineering, and AI/ML fundamentals
 
 ## 📫 Let's Connect
 
 - **GitHub:** [@sofiasanjose](https://github.com/sofiasanjose)
 - **Portfolio:** [sofiasanjose.github.io](https://sofiasanjose.github.io)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** bonoansofia@gmail.com | sbonoan.ieu2023@student.ie.edu
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/sofiasanjose)
 
 ---
 
-*Currently looking for internship opportunities in software engineering and AI.*
+*Open to internship opportunities in software engineering, full-stack development, and AI/ML for Summer 2026*
