@@ -31,4 +31,4 @@ Also building **sofaudiomixer**, a native macOS audio mixer for per-app volume c
 
 ---
 
-**Looking for summer-fall 2026 internships in business, tech, software development, AI/ML.**
+**Open to internships and junior roles in software development, AI/ML and business tech.**
