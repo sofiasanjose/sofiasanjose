@@ -9,7 +9,8 @@ Internal web tools I built during my internship at Crevel Europe for the sales t
 
 | Project | What it is |
 |---|---|
-| [rerun](https://github.com/sofiasanjose/rerun) | Automation ops dashboard: run workflows, see what failed, safely re-run them |
+| [Sales Tools](https://github.com/sofiasanjose/sales-tools) | Live stock, customer briefs, recommendations and restock alerts for a B2B sales team ([demo](https://sofiasanjose.github.io/sales-tools/)) |
+| [Catalog Builder](https://sofiasanjose.github.io/sales-tools/#catalog) | Filter a product range, pick what a customer wants and print a branded PDF catalogue |
 | [recsys-amazon-videogames](https://github.com/sofiasanjose/recsys-amazon-videogames) | Recommendation system: collaborative, content-based, hybrid and context-aware, with full evaluation |
 | [Notification priority classification](https://github.com/sofiasanjose/Notification-Priority-Classification-Using-Semantic-Analysis) | Transformer-based classifier that ranks smartphone notifications by priority |
 | [sofaudiomixer](https://github.com/sofiasanjose/sofaudiomixer) | Native macOS per-app volume mixer in SwiftUI |
